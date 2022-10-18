@@ -1,0 +1,169 @@
+# Translation of Themes - Blossom Consulting in Ukrainian
+# This file is distributed under the same license as the Themes - Blossom Consulting package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-30 11:04:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Blossom Consulting\n"
+
+#. Description of the theme
+msgid "Blossom Consulting is free child theme of Blossom Coach WordPress theme. Blossom Consulting is a perfect choice to create websites for consultants and consulting companies, coaches (life coach, health coach), speakers, business and creative agencies, content marketers, affiliate bloggers and psychologists. The theme is also multi-purpose. So you can also use it to build small business (restaurants/cafe, travel, education, hotel, construction, events, wedding planners, fitness, affiliate, fashion, lawyer, sport/medical shops, spa/temas, political), portfolio, church, online agencies and firms, charity, ecommerce (WooCommerce), and freelancers websites. It is responsive, Schema.org compatible, SEO friendly, RTL compatible, speed optimized, and translation ready. Check theme details at https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/, demo at https://blossomthemes.com/theme-demo/?theme=blossom-consulting, read the documentation at https://docs.blossomthemes.com/docs/blossom-consulting/, and get support at https://blossomthemes.com/support-ticket/."
+msgstr "Blossom Consulting - це безкоштовна дочірня тема WordPress теми Blossom Coach. Blossom Consulting - це ідеальний вибір для створення веб-сайтів для консультантів та консалтингових компаній, тренерів (тренерів життя, тренерів здоров’я), спікерів, ділових та творчих агентств, маркетологів, афілійованих блогерів та психологів. Тема також багатоцільова. Тож ви також можете використовувати її для створення малого бізнесу (ресторани/кафе, подорожі, освіта, готель, будівництво, події, весільні планувачі, фітнес, компанія, мода, адвокат, спортивні/медичні магазини, спа, політичні), портфоліо, церква, інтернет-агенції та фірми, благодійні організації, електронна комерція (WooCommerce) та веб-сайти-фрілансери. Вона адаптивна, Schema.org сумісна, SEO-дружня, сумісна із RTL, оптимізована на швидкість та готова до перекладу. Перевірте деталі теми на https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/, демонстрацію на https://demo.blossomthemes.com/blossom-consulting/, прочитайте документацію за адресою https://docs.blossomthemes.com/docs/blossom-consulting/ та отримати підтримку за адресою https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Blossom Consulting"
+msgstr "Blossom Consulting"
+
+#: functions.php:150
+msgid " Blossom Consulting | Developed By "
+msgstr "Blossom Consulting | Розроблена "
+
+#: sections/shop.php:45
+msgid "Sold Out"
+msgstr "Продано"
+
+#: sections/shop.php:9
+msgid "Show your latest blog posts here. You can modify this section from Appearance > Customize > Front Page Settings > Shop Section."
+msgstr "Покажіть тут свої останні публікації в блозі. Ви можете змінити цей розділ у  Зовнішній вигляд > Налаштувати > Налаштування головної сторінки > Розділ магазину."
+
+#: inc/customizer.php:351
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Посилання на документацію: %1$sНатисніть сюди.%2$s"
+
+#: inc/customizer.php:349
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Посилання на демо: %1$sНатисніть сюди.%2$s"
+
+#: inc/customizer.php:336
+msgid "Demo & Documentation"
+msgstr "Демо та документація"
+
+#: inc/customizer.php:327
+msgid "Product Four"
+msgstr "Товар чотири"
+
+#: inc/customizer.php:306
+msgid "Product Three"
+msgstr "Товар три"
+
+#: inc/customizer.php:285
+msgid "Product Two"
+msgstr "Товар два"
+
+#: inc/customizer.php:264
+msgid "Product One"
+msgstr "Товар один"
+
+#: inc/customizer.php:239
+msgid "Section Content"
+msgstr "Вміст розділу"
+
+#: inc/customizer.php:229 inc/customizer.php:398
+msgid "Show your products here. You can modify this section from Appearance > Customize > Front Page Settings > Shop Section."
+msgstr "Покажіть тут свою продукцію. Ви можете змінити цей розділ у розділі Зовнішній вигляд > Налаштувати > Налаштування головної сторінки > Розділ магазину."
+
+#: inc/customizer.php:214
+msgid "Section Title"
+msgstr "Заголовок розділу"
+
+#: sections/shop.php:8 inc/customizer.php:204 inc/customizer.php:391
+msgid "Shop"
+msgstr "Магазин"
+
+#: inc/customizer.php:194
+msgid "Enable to show shop section."
+msgstr "Дозволити показувати розділ магазину."
+
+#: inc/customizer.php:193
+msgid "Enable Shop Section"
+msgstr "Дозволити розділ магазину"
+
+#: inc/customizer.php:172
+msgid "Shop Section"
+msgstr "Розділ магазин"
+
+#: inc/customizer.php:161
+msgid "Banner Link"
+msgstr "Посилання банеру"
+
+#: inc/customizer.php:137
+msgid "Banner Label"
+msgstr "Мітка банеру"
+
+#: sections/banner.php:15 inc/customizer.php:128 inc/customizer.php:384
+msgid "Discover More"
+msgstr "ДОСЛІДІТЬ БІЛЬШЕ"
+
+#: inc/customizer.php:112
+msgid "Sub Title"
+msgstr "Підзаголовок"
+
+#: sections/banner.php:14 inc/customizer.php:103 inc/customizer.php:377
+msgid "Sally is a solution focused therapist offering brief and often single session therapy. She has built a reputation for engaging workshops on Solution Focused Brief Therapy and Single Session Therapy, and have recently started to put her courses online."
+msgstr "Саллі - терапевтично орієнтовані рішення, вона пропонує короткі та часто одноразові сеанси терапії. Вона створила репутацію в проведенні практичних семінарів з короткотермінової терапії та односеансової терапії, і нещодавно почала розміщувати свої курси в Інтернеті."
+
+#: inc/customizer.php:87
+msgid "Title"
+msgstr "Заголовок"
+
+#: sections/banner.php:13 inc/customizer.php:78 inc/customizer.php:370
+msgid "The Secrets to Successful Team Leadership"
+msgstr "Секрети успішного керівництва командою"
+
+#: inc/customizer.php:67
+msgid "Banner as Slider"
+msgstr "Банер як слайдер"
+
+#: inc/customizer.php:66
+msgid "Static/Video Newsletter Banner"
+msgstr "Статичний/відео банерний бюлетень"
+
+#: inc/customizer.php:65
+msgid "Static/Video CTA Banner"
+msgstr "Статичний/відео банер заклику до дії"
+
+#: inc/customizer.php:64
+msgid "Disable Banner Section"
+msgstr "Відключити розділ банеру"
+
+#: inc/customizer.php:61
+msgid "Choose banner as static image/video or as a slider."
+msgstr "Виберіть банер як статичне зображення/відео або як слайдер."
+
+#: inc/customizer.php:60
+msgid "Banner Options"
+msgstr "Налаштування банеру"
+
+#: inc/customizer.php:34
+msgid "Change the font size of your site title."
+msgstr "Змініть розмір шрифту свого заголовку."
+
+#: inc/customizer.php:33
+msgid "Site Title Font Size"
+msgstr "Розмір шрифту заголовку сайту"
+
+#: functions.php:152
+msgid "https://wordpress.org/"
+msgstr "https://uk.wordpress.org/"
+
+#: functions.php:152
+msgid " Powered by %s"
+msgstr "Працює на %s"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:151
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/"
+msgstr "https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/"

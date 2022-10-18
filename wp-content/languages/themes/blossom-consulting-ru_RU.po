@@ -1,0 +1,165 @@
+# Translation of Themes - Blossom Consulting in Russian
+# This file is distributed under the same license as the Themes - Blossom Consulting package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-10 10:05:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Blossom Consulting\n"
+
+#. Theme Name of the theme
+msgid "Blossom Consulting"
+msgstr "Blossom Consulting"
+
+#: functions.php:150
+msgid " Blossom Consulting | Developed By "
+msgstr " Blossom Consulting | Разработана "
+
+#: sections/shop.php:45
+msgid "Sold Out"
+msgstr "Распродано"
+
+#: inc/customizer.php:351
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Ссылка на документацию: %1$sНажмите тут.%2$s"
+
+#: inc/customizer.php:349
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Ссылка на демо: %1$sНажмите тут.%2$s"
+
+#: inc/customizer.php:336
+msgid "Demo & Documentation"
+msgstr "Демо и документация"
+
+#: inc/customizer.php:214
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: sections/shop.php:8 inc/customizer.php:204 inc/customizer.php:391
+msgid "Shop"
+msgstr "Магазин"
+
+#: inc/customizer.php:172
+msgid "Shop Section"
+msgstr "Раздел Магазин"
+
+#: inc/customizer.php:161
+msgid "Banner Link"
+msgstr "Ссылка банера"
+
+#: inc/customizer.php:137
+msgid "Banner Label"
+msgstr "Метка банера"
+
+#: sections/banner.php:15 inc/customizer.php:128 inc/customizer.php:384
+msgid "Discover More"
+msgstr "Узнать больше"
+
+#: inc/customizer.php:112
+msgid "Sub Title"
+msgstr "Подзаголовок"
+
+#: inc/customizer.php:87
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer.php:67
+msgid "Banner as Slider"
+msgstr "Банер или слайдер"
+
+#: inc/customizer.php:66
+msgid "Static/Video Newsletter Banner"
+msgstr "Статический/видео баннер подписки на новости"
+
+#: inc/customizer.php:65
+msgid "Static/Video CTA Banner"
+msgstr "Статический/видео банер призыва к действию"
+
+#: inc/customizer.php:64
+msgid "Disable Banner Section"
+msgstr "Выключить раздел банера"
+
+#: inc/customizer.php:61
+msgid "Choose banner as static image/video or as a slider."
+msgstr "Выберите банер статическое изображение/видео или как слайдер."
+
+#: inc/customizer.php:60
+msgid "Banner Options"
+msgstr "Настройки банера"
+
+#: inc/customizer.php:34
+msgid "Change the font size of your site title."
+msgstr "Измените размер шрифта заголовка вашего сайта."
+
+#: inc/customizer.php:33
+msgid "Site Title Font Size"
+msgstr "Размер шрифта заголовка сайта"
+
+#: functions.php:152
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:152
+msgid " Powered by %s"
+msgstr "Сайт работает на %s"
+
+#: inc/customizer.php:239
+msgid "Section Content"
+msgstr "Содержимое раздела"
+
+#: sections/shop.php:9
+msgid "Show your latest blog posts here. You can modify this section from Appearance > Customize > Front Page Settings > Shop Section."
+msgstr "Покажите здесь свои последние сообщения в блоге. Вы можете изменить этот раздел, выбрав Вид > Настройка > Параметры главной страницы > Раздел Магазин."
+
+#: inc/customizer.php:327
+msgid "Product Four"
+msgstr "Товар четыре"
+
+#: inc/customizer.php:306
+msgid "Product Three"
+msgstr "Товар три"
+
+#: inc/customizer.php:285
+msgid "Product Two"
+msgstr "Товар два"
+
+#: inc/customizer.php:264
+msgid "Product One"
+msgstr "Товар один"
+
+#: inc/customizer.php:229 inc/customizer.php:398
+msgid "Show your products here. You can modify this section from Appearance > Customize > Front Page Settings > Shop Section."
+msgstr "Покажите свои товары тут. Вы можете изменить этот раздел, выбрав Вид > Настройка > Параметры главной страницы > Раздел Магазин."
+
+#: inc/customizer.php:194
+msgid "Enable to show shop section."
+msgstr "Разрешить показывать раздел магазин."
+
+#: inc/customizer.php:193
+msgid "Enable Shop Section"
+msgstr "Разрешить раздел магазин"
+
+#: sections/banner.php:14 inc/customizer.php:103 inc/customizer.php:377
+msgid "Sally is a solution focused therapist offering brief and often single session therapy. She has built a reputation for engaging workshops on Solution Focused Brief Therapy and Single Session Therapy, and have recently started to put her courses online."
+msgstr "Салли - терапевт, ориентированная на решение, предлагающая краткую и часто однократную терапию. Она заслужила репутацию привлекательных семинаров по краткой терапии, ориентированной на решения, и односессионной терапии, и недавно начала размещать свои курсы в Интернете."
+
+#: sections/banner.php:13 inc/customizer.php:78 inc/customizer.php:370
+msgid "The Secrets to Successful Team Leadership"
+msgstr "Секреты успешного командного лидерства"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:151
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/"
+msgstr "https://blossomthemes.com/downloads/blossom-consulting-free-wordpress-theme/"
